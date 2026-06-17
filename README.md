@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansaa-kohli-937868289)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mansaakohli1502@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Launchpad-39D353?style=flat-square&logo=vercel&logoColor=black)](https://launchpad-smoky-ten.vercel.app)
-[![Views](https://komarev.com/ghpvc/?username=mansaakohli15&style=flat-square&color=39d353&label=views)](https://github.com/mansaakohli15)
+[![GitHub](https://komarev.com/ghpvc/?username=mansaakohli15&style=flat-square&color=39d353&label=views)](https://github.com/mansaakohli15)
 
 <br>
 
@@ -49,6 +49,7 @@ mansaa = {
 
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)
+![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-39D353?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -59,6 +60,7 @@ mansaa = {
 ![Spring](https://skillicons.dev/icons?i=spring&theme=dark)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
 
 **Frontend & Cloud**
 
@@ -94,9 +96,5 @@ mansaa = {
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=99999&color=39D353&center=true&vCenter=true&width=500&height=80&lines=MANSAA+KOHLI" alt="Mansaa Kohli" />
-
-<sub>github.com/mansaakohli15 · open to internships · collaborations</sub>
-
+<sub>open to internships · collaborations · building things that matter</sub>
 </div>
