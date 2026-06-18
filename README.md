@@ -109,11 +109,5 @@ mansaa = {
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=99999&color=39D353&center=true&vCenter=true&repeat=false&width=500&height=60&lines=MANSAA+KOHLI" alt="Mansaa Kohli" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=99999&color=161b22&center=true&vCenter=true&repeat=false&width=500&height=16&lines=." alt="" />
-
 <sub>open to internships · collaborations · building things that matter</sub>
-
 </div>
