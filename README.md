@@ -38,8 +38,8 @@ mansaa = {
 | | Project | Description | Stack |
 |--|---------|-------------|-------|
 | 🚀 | [**Launchpad**](https://launchpad-smoky-ten.vercel.app) | AI career prep — ATS scoring, adaptive mock interviews (voice), RAG assistant, roadmaps | Next.js · FastAPI · LangChain · Groq LLaMA |
-| 🧠 | [**MafiaMind**](https://github.com/mansaakohli15) | Multiplayer Mafia game — hidden LLM agent models suspicion, remembers context, decides when to lie | Spring Boot · WebSockets · PostgreSQL · FastAPI |
-| 🏆 | [**SafeWalk**](https://github.com/mansaakohli15/safewalk) | In-browser fall detection, TF.js runs entirely client-side. **3rd @ CodeVerse (250+ teams)** | React · Next.js · TensorFlow.js · TypeScript |
+| 🧠 | [**MafiaMind**](https://github.com/mansaakohli15) | Multiplayer Mafia — hidden LLM agent models suspicion, remembers context, decides when to lie | Spring Boot · WebSockets · PostgreSQL · FastAPI |
+| 🏆 | [**SafeWalk**](https://github.com/mansaakohli15) | In-browser fall detection, TF.js runs entirely client-side. **3rd @ CodeVerse (250+ teams)** | React · Next.js · TensorFlow.js · TypeScript |
 | 🗺️ | [**LocalHub**](https://mansaakohli15.github.io/local-business-directory) | Local business discovery with interactive maps, filters, reviews | HTML · JS · Leaflet.js |
 
 ---
@@ -81,7 +81,7 @@ mansaa = {
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansaakohli15&bg_color=0d1117&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D35320&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansaakohli15&bg_color=0d1117&color=39D353&line=39D353&point=ffffff&area=true&area_color=0e442940&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -110,21 +110,9 @@ mansaa = {
 
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ███╗   ██╗███████╗ █████╗  █████╗ 
-████╗ ████║██╔══██╗████╗  ██║██╔════╝██╔══██╗██╔══██╗
-██╔████╔██║███████║██╔██╗ ██║███████╗███████║███████║
-██║╚██╔╝██║██╔══██║██║╚██╗██║╚════██║██╔══██║██╔══██║
-██║ ╚═╝ ██║██║  ██║██║ ╚████║███████║██║  ██║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-                                                       
-██╗  ██╗ ██████╗ ██╗  ██╗██╗     ██╗                  
-██║ ██╔╝██╔═══██╗██║  ██║██║     ██║                  
-█████╔╝ ██║   ██║███████║██║     ██║                  
-██╔═██╗ ██║   ██║██╔══██║██║     ██║                  
-██║  ██╗╚██████╔╝██║  ██║███████╗██║                  
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝                  
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=99999&color=39D353&center=true&vCenter=true&repeat=false&width=500&height=60&lines=MANSAA+KOHLI" alt="Mansaa Kohli" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=99999&color=161b22&center=true&vCenter=true&repeat=false&width=500&height=16&lines=." alt="" />
 
 <sub>open to internships · collaborations · building things that matter</sub>
 
